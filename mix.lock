@@ -1,0 +1,9 @@
+%{"cowboy": {:package, "1.0.0"},
+  "cowlib": {:package, "1.0.0"},
+  "inflex": {:package, "0.2.4"},
+  "jazz": {:package, "0.2.0"},
+  "linguist": {:package, "0.1.1"},
+  "mustache": {:git, "git://github.com/lsimoneau/elixir-mustache.git", "d259d21dd79ffb96e5298824157c078f89399ce5", [branch: "fix-build"]},
+  "phoenix": {:git, "git://github.com/phoenixframework/phoenix.git", "364285ee42e6ad43846a3be4a14d17f227acbf8d", []},
+  "plug": {:package, "0.5.3"},
+  "ranch": {:package, "1.0.0"}}

@@ -1,0 +1,2 @@
+defmodule PhoenixMustache do
+end
